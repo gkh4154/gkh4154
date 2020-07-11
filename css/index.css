@@ -1,0 +1,69 @@
+
+
+.visual img {
+  display: inline;
+  display: block;
+
+}
+
+.card1 {
+  color:white;
+  padding-top:50px;
+  padding-left: 410px;
+  width: 110px;
+  height: 150px;
+  float: left;
+  margin-left: 50px;
+}
+
+.card2 {
+  color:white;
+  padding-top:50px;
+  width: 110px;
+  height: 150px;
+  float: left;
+  margin-left: 50px;
+}
+
+.card3 {
+  color:white;
+  padding-top:50px;
+  width: 110px;
+  height: 150px;
+  float: left;
+  margin-left: 50px;
+}
+
+
+
+.info {
+  padding: 0px;
+}
+
+.info dd {
+  margin: 0px;
+  font-size: 9px;
+}
+
+.info dt {
+  font-weight: bold;
+}
+
+.info dl {
+  margin: 0px;
+}
+
+
+
+body {
+  text-align: center;
+}
+
+h2 {
+  color: ;
+  margin: 10px 0px;
+}
+
+h4 {
+  color: whitesmoke;
+}
